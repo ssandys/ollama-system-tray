@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ollama System Tray
+Comment=System tray application to manage Ollama service
+Exec=/home/sean/Src/ollama-system-tray/ollama-system-tray
+Icon=ollama
+Terminal=false
+StartupNotify=false
+Categories=Utility;System;
+Keywords=ollama;ai;llm;tray;
+StartupWMClass=ollama-tray
